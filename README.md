@@ -39,5 +39,7 @@ For each operation, you'll need to provide:
 ```bash
 python xor_cipher.py
 ```
+or
+## Download: https://github.com/ahmetcskn/XOR-Cipher/releases
 ## Security Note
 This is a basic implementation for educational purposes. For serious encryption needs, use established cryptographic libraries.
